@@ -19,11 +19,6 @@ I am a passionate software developer with experience in building applications us
 
 ## 🚀 Skills
 
-### Frameworks and Libraries
-![React](https://img.shields.io/badge/-React-333?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
-![Django](https://img.shields.io/badge/-Django-333?style=flat&logo=django)
-
 ### Tools and Platforms
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
