@@ -7,7 +7,9 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn&logoColor=white">
   </a>
   <a href="https://github.com/Shlok-Parihar?tab=followers" target="_blank">
-    <img src="https://img.shields.io/github/followers/Shlok-Parihar?label=Follow&style=social" alt="GitHub followers">
+  </a>
+  </a>
+  <a href="https://www.hackerrank.com/profile/shlok0802" target="_blank">
   </a>
 </p>
 
