@@ -1,4 +1,4 @@
-# Hi there, I'm Shlok Parihar 👋
+# Hi, I'm Shlok Parihar 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer with a love for building applications and sharing knowledge. Below, you can learn more about my skills, projects, and how to get in touch with me.
 
