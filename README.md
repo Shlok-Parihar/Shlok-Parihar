@@ -33,3 +33,10 @@ I am a passionate software developer with experience in building applications us
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+
+## 📊 GitHub Stats
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=Shlok-Parihar&show_icons=true&hide_border=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shlok-Parihar&layout=compact&hide_border=true&theme=radical)
+
