@@ -23,6 +23,12 @@ I am a passionate software developer with experience in building applications us
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-333?style=flat&logo=androidstudio)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-333?style=flat&logo=adobephotoshop)
+![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-333?style=flat&logo=adobeaftereffects)
+![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-333?style=flat&logo=adobepremierepro)
+![Overleaf](https://img.shields.io/badge/-Overleaf-333?style=flat&logo=overleaf)
+![LaTeX](https://img.shields.io/badge/-LaTeX-333?style=flat&logo=latex)
+
 
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
