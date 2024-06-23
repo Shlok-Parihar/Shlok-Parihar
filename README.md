@@ -34,6 +34,12 @@ I am a passionate software developer with experience in building applications us
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java)
+[![HTML](https://img.shields.io/badge/-HTML-333?style=flat&logo=html5)]
+[![CSS](https://img.shields.io/badge/-CSS-333?style=flat&logo=css3)]
+[![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=php)]
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-333?style=flat&logo=bootstrap)]
+[![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)]
+
 
 ## 📊 GitHub Stats
 
