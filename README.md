@@ -43,7 +43,5 @@ I am a passionate software developer with experience in building applications us
 
 ## 📊 GitHub Stats
 
-![My Stats](https://github-readme-stats.vercel.app/api?username=Shlok-Parihar&show_icons=true&hide_border=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shlok-Parihar&layout=compact&hide_border=true&theme=radical)
 
