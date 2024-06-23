@@ -21,7 +21,7 @@ I am a passionate software developer with experience in building applications us
 
 ### Tools and Platforms
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![Android Studio](https://img.shields.io/badge/-AndroidStudio-333?style=flat&logo=androidstudio)
 ![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat&logo=github)
 
 ### Programming Languages
