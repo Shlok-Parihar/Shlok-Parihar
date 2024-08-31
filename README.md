@@ -13,10 +13,6 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
   </a>
 </p>
 
-## About Me
-
-I am a passionate software developer with experience in building applications using various technologies. I love to learn new skills and share my knowledge with the community.
-
 ## 🚀 Skills
 
 ### Tools and Platforms
