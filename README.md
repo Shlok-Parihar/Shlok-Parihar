@@ -37,7 +37,4 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2B%2B)
 
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shlok-Parihar&layout=compact&hide_border=true&theme=radical)
 
